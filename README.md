@@ -9,6 +9,8 @@ I build software systems and investigate how they work under the hood & Currentl
 - 🛠 Performance and reliability engineering
 
 Past Project & Scope :
+- 🛠 Network Engineer
+- 🛠 Data-center Engineer
 - 🛠 Landing Page
 - 🛠 E-commerce
 - 🛠 CRM
