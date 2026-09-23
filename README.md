@@ -1,12 +1,14 @@
 # Hey there 👋
 
-Here are some ideas to get you started:
+I build software systems and investigate how they work under the hood & Currently focused on :
 
-- 🔭 I’m currently working on Development Web & App 
-- 🌱 I’m currently learning Utilizing & Optimize AI
-- 👯 I’m looking to collaborate on Marketing
-- 🤔 I’m looking for help with AI Utilization
-- 💬 Ask me about what i bring in to the table
-- 📫 How to reach me: Insta @_syauki_
-- ⚡ Fun fact: I enjoy talk about technology and it's application
--->
+🛠 AI agents and inference infrastructure
+🛠 Distributed systems
+🛠 Backend architecture
+🛠 Systems programming
+🛠 Performance and reliability engineering
+
+Past Project & Scope :
+🛠 Landing Page
+🛠 E-commerce
+🛠 CRM
